@@ -3,9 +3,6 @@
 # Face-Recognition
 ## Coursera - CNN Programming Assignment
 
-### Disclaimer:
-The given solutions in this project are only for reference purpose.
-
 ### Description of experiment
 Welcome! In this project, we're going to build a face recognition system. Many of the ideas presented here are from FaceNet.
 
