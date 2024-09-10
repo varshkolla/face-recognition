@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/d28e6093-f406-49bb-aadf-e717391c33e6)
+![image](https://github.com/user-attachments/assets/461c9238-3126-484e-9cae-925f6a03fabc)
+
 
 # Face-Recognition
 ## Coursera - CNN Programming Assignment
